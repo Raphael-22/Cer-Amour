@@ -32,7 +32,7 @@ export default function ProductDetails() {
   }
 
   const whatsappMessage = encodeURIComponent(`Hello Mira, I would like to inquire about the "${product.name}". Is it still available for order?`);
-  const whatsappUrl = `https://wa.me/96170000000?text=${whatsappMessage}`;
+  const whatsappUrl = `https://wa.me/96170968563?text=${whatsappMessage}`;
 
   return (
     <main className="bg-cream pt-24 pb-32 px-6 md:px-16 min-h-[85vh] flex items-center">
