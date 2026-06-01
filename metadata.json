@@ -1,0 +1,6 @@
+{
+  "name": "CÉR·AMOUR Ceramics",
+  "description": "Lebanese handmade ceramics brand by artist Mira Melki. A purely digital showroom driving Instagram engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
